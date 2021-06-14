@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-28 18:47:10 -0400"
@@ -284,6 +290,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-05-28 18:03:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-06-02 21:47:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-06-01 12:06:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-06-02 21:59:17 -0400"
     },
     "done": true
   },
@@ -374,12 +398,6 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-29 19:47:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2021-06-11 21:31:12 -0400"
     },
     "done": true
   },
@@ -491,6 +509,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2021-05-29 18:20:49 -0400"
@@ -557,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-05-28 19:02:13 -0400"
@@ -572,6 +608,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-28 17:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
     },
     "done": true
   },
@@ -701,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-06-01 00:15:58 -0400"
@@ -710,6 +758,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-05-31 14:20:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-06-02 21:59:17 -0400"
     },
     "done": true
   },
@@ -758,6 +812,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-06-01 12:06:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2021-06-02 22:08:06 -0400"
     },
     "done": true
   },
@@ -941,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-05-28 22:12:31 -0400"
@@ -959,9 +1025,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-05-29 23:15:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
     },
     "done": true
   },
@@ -986,6 +1064,24 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-05-28 18:13:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
     },
     "done": true
   },
@@ -1103,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-06-02 22:08:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-05-28 17:53:02 -0400"
@@ -1211,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-05-29 19:47:19 -0400"
@@ -1220,6 +1328,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2021-06-01 11:13:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-06-02 21:52:44 -0400"
     },
     "done": true
   },
@@ -1298,6 +1412,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-05-29 22:55:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-06-02 21:59:17 -0400"
     },
     "done": true
   },
@@ -1451,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-06-01 00:15:58 -0400"
@@ -1526,6 +1652,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2021-05-28 18:17:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-06-02 22:08:05 -0400"
     },
     "done": true
   },
