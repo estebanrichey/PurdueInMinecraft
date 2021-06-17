@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-06-16 22:40:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-05-29 19:47:19 -0400"
@@ -470,6 +476,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-05-28 17:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-06-16 22:40:20 -0400"
     },
     "done": true
   },
@@ -572,6 +584,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2021-05-28 18:45:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-06-16 22:53:10 -0400"
     },
     "done": true
   },
@@ -1253,6 +1271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-06-16 22:40:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-05-28 18:18:16 -0400"
@@ -1298,6 +1322,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-06-01 12:06:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-06-16 22:40:20 -0400"
     },
     "done": true
   },
