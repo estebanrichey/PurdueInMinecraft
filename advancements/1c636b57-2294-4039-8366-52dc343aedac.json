@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-06-17 23:06:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-06-01 12:06:45 -0400"
@@ -518,6 +524,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-05-28 17:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-06-17 23:06:04 -0400"
     },
     "done": true
   },
@@ -1289,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-06-17 23:06:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-05-28 18:03:21 -0400"
@@ -1850,6 +1868,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-05-29 19:47:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-06-17 23:06:04 -0400"
     },
     "done": true
   },
