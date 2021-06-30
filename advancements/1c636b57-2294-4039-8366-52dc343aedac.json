@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-06-21 16:04:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-06-01 12:06:45 -0400"
@@ -1406,6 +1412,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2021-06-17 23:06:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-06-21 16:04:14 -0400"
     },
     "done": true
   },
